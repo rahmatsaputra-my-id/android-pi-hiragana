@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#17810b</color>
+    <color name="colorPrimaryDark">#ce271015</color>
+    <color name="black">#000</color>
+    <color name="lightorange">#fdf2df</color>
+    <color name="lightorangedark">#ebd6ab</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightgray">#ededed</color>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <color name="warnaHeader">#fff</color>
+</resources>
